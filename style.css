@@ -1,4 +1,3 @@
-
 :root {
   --red-color: #9a3333;
 }
@@ -27,17 +26,17 @@ ul li {
 .nav-pad {
   padding-left: 190px;
 }
-=======
-.hero{
-    background-color: #F4F6FB;
 
-}
-body{
-    font-family: 'Poppins', sans-serif;
-
+.hero {
+  background-color: #f4f6fb;
+  padding-top: 90px;
+  height: 100vh;
 }
 
-.red{
-    color: #9A3333;
+body {
+  font-family: "Poppins", sans-serif;
 }
 
+.red {
+  color: #9a3333;
+}
